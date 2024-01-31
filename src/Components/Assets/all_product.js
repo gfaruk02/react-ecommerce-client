@@ -11,7 +11,7 @@ let all_product = [
       "id": 2,
       "name": "Women's Dress B",
       "category": "women",
-      "image": "womens_dress_b.jpg",
+      "image": "https://i.ibb.co/3TyqyR5/pf4.jpg",
       "new_price": 49.99,
       "old_price": 59.99
     },
@@ -19,7 +19,7 @@ let all_product = [
       "id": 3,
       "name": "Kid's Toy C",
       "category": "kid",
-      "image": "kids_toy_c.jpg",
+      "image": "https://i.ibb.co/D1hqgrv/gc1.jpg",
       "new_price": 14.95,
       "old_price": 24.95
     },
@@ -35,7 +35,7 @@ let all_product = [
       "id": 5,
       "name": "Women's Shoes E",
       "category": "women",
-      "image": "womens_shoes_e.jpg",
+      "image": "https://i.ibb.co/Ch1nrLG/pf3.jpg",
       "new_price": 39.99,
       "old_price": 49.99
     },
@@ -43,7 +43,7 @@ let all_product = [
       "id": 6,
       "name": "Kid's Backpack F",
       "category": "kid",
-      "image": "kids_backpack_f.jpg",
+      "image": "https://i.ibb.co/D1hqgrv/gc1.jpg",
       "new_price": 24.95,
       "old_price": 34.95
     },
@@ -51,7 +51,7 @@ let all_product = [
       "id": 7,
       "name": "Men's Watch G",
       "category": "men",
-      "image": "mens_watch_g.jpg",
+      "image": "https://i.ibb.co/J5PKpVR/pi3.jpg",
       "new_price": 79.99,
       "old_price": 89.99
     },
@@ -59,7 +59,7 @@ let all_product = [
       "id": 8,
       "name": "Women's Hat H",
       "category": "women",
-      "image": "womens_hat_h.jpg",
+      "image": "https://i.ibb.co/5xLrQMC/pf2.jpg",
       "new_price": 19.95,
       "old_price": 29.95
     },
@@ -75,7 +75,7 @@ let all_product = [
       "id": 10,
       "name": "Men's Jeans J",
       "category": "men",
-      "image": "mens_jeans_j.jpg",
+      "image": "https://i.ibb.co/q58jBc1/pi9.jpg",
       "new_price": 44.99,
       "old_price": 54.99
     },
@@ -83,7 +83,7 @@ let all_product = [
       "id": 11,
       "name": "Women's Scarf K",
       "category": "women",
-      "image": "womens_scarf_k.jpg",
+      "image": "https://i.ibb.co/Vjd0W2J/pf5.jpg",
       "new_price": 9.99,
       "old_price": 14.99
     },
@@ -99,7 +99,7 @@ let all_product = [
       "id": 13,
       "name": "Men's Sneakers M",
       "category": "men",
-      "image": "mens_sneakers_m.jpg",
+      "image": "https://i.ibb.co/q58jBc1/pi9.jpg",
       "new_price": 54.95,
       "old_price": 64.95
     },
@@ -107,7 +107,7 @@ let all_product = [
       "id": 14,
       "name": "Women's Sunglasses N",
       "category": "women",
-      "image": "womens_sunglasses_n.jpg",
+      "image": "https://i.ibb.co/vJf21tK/pf7.png",
       "new_price": 39.99,
       "old_price": 49.99
     },
@@ -123,7 +123,7 @@ let all_product = [
       "id": 16,
       "name": "Men's Backpack P",
       "category": "men",
-      "image": "mens_backpack_p.jpg",
+      "image": "https://i.ibb.co/q58jBc1/pi9.jpg",
       "new_price": 29.95,
       "old_price": 39.95
     },
@@ -131,7 +131,7 @@ let all_product = [
       "id": 17,
       "name": "Women's Wallet Q",
       "category": "women",
-      "image": "womens_wallet_q.jpg",
+      "image": "https://i.ibb.co/vJf21tK/pf7.png",
       "new_price": 39.99,
       "old_price": 49.99
     },
@@ -139,7 +139,7 @@ let all_product = [
       "id": 18,
       "name": "Kid's Remote Control Car R",
       "category": "kid",
-      "image": "kids_remote_control_car_r.jpg",
+      "image": "https://i.ibb.co/D1hqgrv/gc1.jpg",
       "new_price": 49.99,
       "old_price": 59.99
     },
@@ -187,7 +187,7 @@ let all_product = [
       "id": 24,
       "name": "Kid's Board Games X",
       "category": "kid",
-      "image": "kids_board_games_x.jpg",
+      "image": "https://i.ibb.co/D1hqgrv/gc1.jpg",
       "new_price": 44.99,
       "old_price": 54.99
     },
