@@ -1,9 +1,10 @@
+import { Link } from 'react-router-dom';
 import './Item.css'
 const Item = (props) => {
     return (
         <div>
             <div className="item">
-                <img src={props.image} alt="" />
+                <Link to={`/product/${props.id}`}> <img src={props.image} alt="" /> </Link>
                 <p>{props.name} </p>
             </div>
             <div className="item-prices"> 
