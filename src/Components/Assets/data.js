@@ -1,34 +1,34 @@
+import p1_img from './product_1.png'
+import p2_img from './product_2.png'
+import p3_img from './product_3.png'
+import p4_img from './product_4.png'
 
 let data_product = [
-    {
-      "id": 1,
-      "name": "Product A",
-      "image": "https://i.ibb.co/KD13Rhb/zara3.jpg",
-      "new_price": 19.99,
-      "old_price": 29.99
-    },
-    {
-      "id": 2,
-      "name": "Product B",
-      "image": "https://i.ibb.co/T2SRYzD/zara4.jpg",
-      "new_price": 49.99,
-      "old_price": 59.99
-    },
-    {
-      "id": 3,
-      "name": "Product C",
-      "image": "https://i.ibb.co/x8y4M1Q/zara1.jpg",
-      "new_price": 14.95,
-      "old_price": 24.95
-    },
-    {
-      "id": 4,
-      "name": "Product D",
-      "image": "https://i.ibb.co/d29JNSY/nk.jpg",
-      "new_price": 39.99,
-      "old_price": 49.99
-    }
-  ];
+  {
+    id:1,
+    name:"Striped Flutter Sleeve Overlap Collar Peplum Hem Blouse",
+    image:p1_img,
+    new_price:50.00,
+    old_price:80.50,
+  },
+  {id:2,
+    name:"Striped Flutter Sleeve Overlap Collar Peplum Hem Blouse",
+    image:p2_img,
+    new_price:85.00,
+    old_price:120.50,
+  },
+  {id:3,
+    name:"Striped Flutter Sleeve Overlap Collar Peplum Hem Blouse",
+    image:p3_img,
+    new_price:60.00,
+    old_price:100.50,
+  },
+  {id:4,
+    name:"Striped Flutter Sleeve Overlap Collar Peplum Hem Blouse",
+    image:p4_img,
+    new_price:100.00,
+    old_price:150.00,
+  },
+];
 
-  export default data_product;
-  
+export default data_product;

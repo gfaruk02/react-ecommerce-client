@@ -1,6 +1,6 @@
 import './ProductDisplay.css'
-import star_icon from '../Assets/star-icon.png'
-import star_dull from '../Assets/star-dull.png'
+import star_icon from '../Assets/star_icon.png'
+import star_dull from '../Assets/star_dull_icon.png'
 const ProductDisplay = (props) => {
     const { product } = props;
     return (
@@ -35,7 +35,7 @@ const ProductDisplay = (props) => {
                     </div>
                 </div>
                 <div className="productdisplay-right-description">
-                    A product description is a form of marketing copy used to describe and explain the benefits of your product. In other words, it provides all the information and details of your product on your ecommerce site. These product details can be one sentence, a short paragraph or bulleted. They can be serious, funny or quirky.
+                    A product description is a form of marketing copy used to describe and explain the benefits of your product. In other words, it provides all the information and details of your product on your ecommerce site. 
                 </div>
                 <div className="productdisplay-right-size">
                     <h1>Select Size</h1>

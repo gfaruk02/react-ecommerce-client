@@ -1,8 +1,8 @@
 import './Footer.css'
 import logo from '../Assets/logo.png'
-import facebook from '../Assets/facebook.png'
-import twitter from '../Assets/twitter.png'
-import instagram from '../Assets/instagram.png'
+import whatsapp from '../Assets/whatsapp_icon.png'
+import instagram from '../Assets/instagram_icon.png'
+import pintester from '../Assets/pintester_icon.png'
 const Footer = () => {
     return (
         <div className='footer'>
@@ -19,13 +19,13 @@ const Footer = () => {
             </ul>
             <div className="footer-social-icon"> 
             <div className="footer-icon-container"> 
-                <img src={facebook} alt="" />
+                <img src={whatsapp} alt="" />
+            </div>
+            <div className="footer-icon-container"> 
+                <img src={pintester} alt="" />
             </div>
             <div className="footer-icon-container"> 
                 <img src={instagram} alt="" />
-            </div>
-            <div className="footer-icon-container"> 
-                <img src={twitter} alt="" />
             </div>
             </div>
             <div className="footer-copyright"> 

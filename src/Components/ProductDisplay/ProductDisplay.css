@@ -1,6 +1,6 @@
 .productdisply{
     display: flex;
-    margin: 0px 170px;
+    margin: 0px 80px;
     
 }
 .productdisply-left{
@@ -14,11 +14,11 @@
 }
 .productdisply-img-list img{
     width: 130px;
-    height: 140px;
+    height: 147px;
 }
 .productdisply-main-img{
     width: 470px;
-    height:585px;
+    height:613px;
 }
 .productdisply-right{
     margin: 0px 70px;
@@ -27,13 +27,13 @@
 }
 .productdisply-right h1{
     color: #3d3d3d;
-    font-size: 36px;
+    font-size: 30px;
     font-weight: 700;
 }
 .productdisply-right-stars{
     display: flex;
     align-items: center;
-    margin-top: 9px;
+    margin-top: 13px;
     gap: 5px;
     color: #1c1c1c;
     font-size: 16px;
@@ -43,7 +43,7 @@
 }
 .productdisplay-right-prices{
 display: flex;
-margin: 16px 0px;
+margin: 18px 0px;
 gap: 30px;
 font-size: 22px;
 font-weight: 700;

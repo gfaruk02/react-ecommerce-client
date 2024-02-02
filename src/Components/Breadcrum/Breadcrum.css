@@ -9,5 +9,6 @@ margin: 30px 170px;
 text-transform: capitalize;
 }
 .breadcrum img{
-    width: 30px;
+    width: 10px;
+    height: 16px;
 }
